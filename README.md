@@ -7,7 +7,6 @@
 > write some information about your favorite series/movie using different Markdown elements
 
 - Harry Potter 
-> wadsadadadsada
 - Dora
 - Attack on Titan
 - Matilda
