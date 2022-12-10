@@ -1,6 +1,10 @@
 # Group 3
 ## Task Performance
 *Favorite Movies*
-> blockquote
+> Harry Potter
+> Dora
+> Attack on Titan
+> Matilda
+> Coco 
 
 
